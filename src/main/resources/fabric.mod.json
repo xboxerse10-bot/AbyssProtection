@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"abyssprotection","version":"${version}","name":"AbyssProtection","environment":"server","entrypoints":{"main":["ro.abyssmc.abyssprotection.AbyssProtection"]},"depends":{"fabricloader":">=0.19.5","minecraft":"26.3","fabric-api":"*"},"mixins":["abyssprotection.mixins.json"]}
